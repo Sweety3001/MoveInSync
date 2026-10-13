@@ -1,0 +1,30 @@
+{
+ "dev": {
+  "n": 50,
+  "tag1_exact": 0.84,
+  "top2": 0.92,
+  "kappa": 0.82,
+  "owner": 0.9,
+  "trigger": 0.7
+ },
+ "test": {
+  "n": 50,
+  "tag1_exact": 0.64,
+  "top2": 0.78,
+  "kappa": 0.6,
+  "owner": 0.72,
+  "trigger": 0.52
+ },
+ "all": {
+  "n": 100,
+  "tag1_exact": 0.74,
+  "top2": 0.85,
+  "kappa": 0.71,
+  "owner": 0.81,
+  "trigger": 0.61
+ },
+ "spot_check": {
+  "SESSION": "14 of 18 correct (78%)",
+  "LATE": "about 11 of 18 correct (~60%)"
+ }
+}

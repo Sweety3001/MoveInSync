@@ -1,0 +1,5 @@
+google-play-scraper
+pandas
+numpy
+openpyxl
+scikit-learn
