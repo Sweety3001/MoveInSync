@@ -1,17 +1,17 @@
 {
-  "captured_on": "2026-10-26 09:16",
+  "captured_on": "2026-11-02 11:35",
   "package": "com.moveinsync.ets",
   "title": "MoveInSync",
   "developer": "MoveInSync: Enabling Hybrid Workplaces",
-  "score": 4.640726,
-  "ratings": 115412,
-  "reviews": 23706,
+  "score": 4.639785,
+  "ratings": 115727,
+  "reviews": 23753,
   "histogram_1_to_5": [
-    7384,
-    860,
-    1181,
-    6979,
-    99003
+    7424,
+    881,
+    1201,
+    6937,
+    99280
   ],
   "installs": "1,000,000+",
   "version": "12.20.0",
