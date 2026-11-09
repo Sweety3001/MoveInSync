@@ -1,4 +1,19 @@
 reviewId,at,score,content,thumbsUpCount,reviewCreatedVersion,appVersion,replyContent,repliedAt,tag1,tag2,trigger,owner
+28133357-7a51-4455-8898-4821033c9d8b,2026-11-05 17:49:05,1,"After every 3-5 days the app gives error saying was not installed from playstore or does not exist even though it is installed from playstore, everytime I have to uninstall it and install it again it's very irritating",0,12.21.0,12.21.0,,,CRASH,,none,Eng
+36ab6042-df1b-4825-acfe-4d800e37aeeb,2026-11-05 15:17:34,1,worst corprate cab service app cab drivers marked you as no show without reaching to location and there help desk use less they only support them self,0,,,,,LATE,BOOKING,during_pickup,Ops
+e5bff41c-cd45-456f-8bc2-70f7d758efb6,2026-11-05 09:03:22,1,no proper tracking,0,12.21.0,12.21.0,,,ETA,,during_trip,Eng
+b36e57de-d06b-41b0-be19-7dc02b7f4c7e,2026-11-05 01:18:20,2,"""The user experience needs significant improvement regarding driver communication. Since our personal phone numbers are not linked to call drivers directly, an in-app chat feature is urgently needed so we can interact with them. In underground parking, there is no network reception, which means live GPS maps don't work at all. Simple text messaging works much better in low-connectivity areas and would make finding the assigned vehicle far easier. Please introduce in-app messaging to help passeng",0,12.21.0,12.21.0,,,LATE,CRASH,during_pickup,Ops
+617c4cee-9683-4123-a7cf-386ca2a6c4e4,2026-11-04 22:45:35,1,they display the address to the driver however the driver would only get the authority to see the pin location. Because few of the drivers are very rude towards the passanger,0,12.20.0,12.20.0,,,LATE,,during_pickup,Ops
+260d13a9-0d99-4cdb-af13-3ee4953c0e33,2026-11-04 21:18:55,1,tickets are being closed without my consent or agreement,0,12.21.0,12.21.0,,,SUPPORT,UI,none,Ops
+ccb91c78-8f21-46f8-abbf-2c2b7c948e11,2026-11-04 18:27:24,1,worst service,0,12.21.0,12.21.0,,,UNCLEAR,,none,Unclear
+0369aeee-d7e6-4962-adc0-77a334b66f0c,2026-11-04 03:39:42,1,The app crashes every now and then. Not a great experience for me personally!,0,12.21.0,12.21.0,,,CRASH,LATE,none,Eng
+c5f64c3c-51ae-43e6-b05b-61c95bace5af,2026-11-03 23:55:58,1,very worst,0,12.21.0,12.21.0,,,UNCLEAR,,none,Unclear
+b4ff1a69-fa5d-4ce3-8069-b55bb2dc031a,2026-11-03 13:21:31,1,worst app,0,12.21.0,12.21.0,,,UNCLEAR,,none,Unclear
+af706b88-1f74-4254-ad3b-961aa5f914e5,2026-11-03 12:48:05,1,"This app is worstly designed for office employees it will just show cab location, cab details and no of persons in cab. Main worst thing if we try to call cab driver the number won't connect. Additionally, the worst thing is we don't whether cab is started or went to office or crossed us or we missed cab. It will just show how far cab is away from us, it won't show whether cab moved a head or not. Short time your company got good customer base don't spoil it.",0,,,,,UI,ETA,none,Product
+d39d7b4a-e6ae-42be-969d-7f7ec6bdf8bd,2026-11-03 10:48:40,1,the worst vendor people management,0,,,,,UNCLEAR,,none,Unclear
+98a52c2d-ab4f-4727-82a0-28a68275210e,2026-11-03 07:54:47,3,previously co passenger details are shown in the app currently the details are not available in the app it creates confusion and delay or extends our travel time due to unavailability of the details,0,,,,,UI,LATE,none,Product
+23cc9fc6-7f00-40e9-9d93-87d8a5fa4e80,2026-11-02 06:33:21,2,poor navigation design,0,12.21.0,12.21.0,,,ETA,UI,during_trip,Eng
+21ce6fea-5296-4384-a49f-c7167657b044,2026-11-01 11:51:52,1,wrost app,0,12.21.0,12.21.0,,,UNCLEAR,,none,Unclear
 afbe639a-5bb9-4b94-b496-dfbb741c895a,2026-11-01 09:13:06,1,I'm not resistered on this app,0,,,,,UNCLEAR,,none,Unclear
 f7e400e6-85e9-4d29-8f8b-b90ec1541509,2026-10-31 19:13:20,1,lavadalo service,0,,,,,UNCLEAR,,none,Unclear
 efe00f72-836e-4455-8171-ddc57d905490,2026-10-29 10:44:53,1,no phone no. for transport,0,12.18.1,12.18.1,,,UNCLEAR,,none,Unclear
@@ -993,7 +1008,7 @@ cbbc0fde-b5b2-4fbe-960e-f318f1bd92ad,2025-09-11 11:16:42,1,not able to rate the 
 4b7e2215-a617-432d-a923-af60ab247427,2025-09-11 00:45:22,1,worst laggy app i ever seen,0,12.4,12.4,,,CRASH,,none,Eng
 5e27d49d-5b42-44bc-998d-c1fe9635b3f1,2025-09-10 21:24:59,1,worst application ever,0,12.4,12.4,,,UNCLEAR,,none,Unclear
 d40b8755-1eb8-4f9c-966e-585d68631244,2025-09-10 19:12:50,1,not handy to use,0,12.1.2,12.1.2,,,UNCLEAR,,none,Unclear
-f10f0786-3322-4758-87ce-8378fbfb041f,2025-09-10 10:53:22,1,"The app frequently crashes or hangs while booking cabs, which makes it really frustrating, especially when I’m in a hurry. The GPS tracking is unreliable—it often shows the driver in the wrong location, causing unnecessary delays. Notifications are delayed or sometimes don’t come at all, so I end up missing important updates about my ride.",27,12.4,12.4,,,CRASH,LATE,after_update,Eng
+f10f0786-3322-4758-87ce-8378fbfb041f,2025-09-10 10:53:22,1,"The app frequently crashes or hangs while booking cabs, which makes it really frustrating, especially when I’m in a hurry. The GPS tracking is unreliable—it often shows the driver in the wrong location, causing unnecessary delays. Notifications are delayed or sometimes don’t come at all, so I end up missing important updates about my ride.",28,12.4,12.4,,,CRASH,LATE,after_update,Eng
 e55e17f8-629c-4c94-bf01-03eb569b8b44,2025-09-09 18:50:57,3,Very good experience so far,0,11.5.4,11.5.4,,,UNCLEAR,,none,Unclear
 dd921420-6a9a-4a1b-afcc-67b1d39cd84c,2025-09-09 11:44:49,1,login trip feedback is not coming...only we are getting logout feedback.,0,12.4,12.4,,,SESSION,LOGIN,at_login,Eng
 dd138b69-47ee-42a1-9ede-12fbe69f76f2,2025-09-09 09:10:38,2,vehicle location is not exact most of the times,0,12.4,12.4,,,ETA,,during_trip,Eng
@@ -1835,16 +1850,3 @@ be51e973-372b-4346-bcae-1dc5a2549cb0,2024-11-20 17:06:22,2,To much of technical 
 c824b555-781b-47d8-b0dd-d2e2d32cd402,2024-11-20 16:10:52,2,"Screen is not changing even after pressing ""I agree"" after the latest update. Unable to book shuttles. Have you guys even tested the changes in and Android 15 phone? I mean the page doesn't budge at all",0,11.5.12,11.5.12,,,BOOKING,,after_update,Eng
 aa83097c-60ad-4695-95c6-cf98b30ad4eb,2024-11-20 13:54:48,1,"Is it not compatible Samsung M55s? After login it's giving page load error ""something went wrong, please reload"" error.",1,11.5.12,11.5.12,,,LOGIN,CRASH,at_login,Eng
 2805bb2e-4c7d-4b73-ae56-80d33c1953fc,2024-11-19 14:02:49,1,user unfriendly app. Can't contact driver directly. Facing technical issue whose contacting using the app call,1,11.5.10,11.5.10,,,LATE,,during_pickup,Ops
-ee680771-8cca-4b62-84bb-5af98f0dbc4e,2024-11-18 02:10:16,1,"The logout schedule does not appear on the screen, therefore unable to cancel or edit the logout schedule.",0,11.5.10,11.5.10,,,SESSION,BOOKING,at_login,Eng
-759f00ad-48ab-4f6c-a16b-6659a88cd0a4,2024-11-18 00:07:47,1,"If the cut off time is 4:59 am and i call at 5:00 am to request a ride, still they dont accommodate ever!",0,11.5.10,11.5.10,,,OTHER,,none,Unclear
-05b9d5ac-d0cd-4322-a45d-fcd67051e58b,2024-11-16 14:15:56,3,Only con is cannot raise adhoc request,0,11.5.10,11.5.10,,,BOOKING,,at_booking,Eng
-71b03e2b-5a1e-45fa-9175-c5cfe373f9c3,2024-11-14 05:47:55,1,Lots of bugs.,0,11.5.10,11.5.10,,,CRASH,,none,Eng
-037ee0af-3690-4869-b017-c85ebd27b0fe,2024-11-13 21:13:33,1,One of the disgusting app I have ever seen customer service very poor.and apart from that driver was very rude to me,0,11.5.8,11.5.8,,,SUPPORT,LATE,none,Ops
-e9458465-586b-4f82-a7c8-087da6f186a0,2024-11-13 14:06:59,1,Feedback on each trip is removed.. it's very bad,0,,,,,RATEPROMPT,,after_ride,Product
-0f17f75d-e983-412a-8d24-d1088e8554e8,2024-11-13 10:46:02,1,"Waste app never work properly, above that horrible support when we contact to help desk.",0,11.5.10,11.5.10,,,CRASH,SUPPORT,none,Eng
-624fbf9c-b8eb-4475-8d9d-5ecea942345e,2024-11-13 09:50:18,1,Location of the employees are not shown and wrong alignment are done,0,11.5.10,11.5.10,,,LATE,,during_pickup,Ops
-4fb385eb-9bd1-4339-b8cf-1d9825066a7e,2024-11-13 05:25:38,1,Need to improve more regarding tracking of bus. If tracking is not proper employees may loss their trip due to lack of bus tracking information,1,11.5.10,11.5.10,,,ETA,,during_trip,Eng
-e1d48dab-2c3c-4f85-acd7-9d9b8b8b24cb,2024-11-13 05:18:30,1,"Does not show correct bus location, their tracking system is really bad and vehicles do not stop at the boarding points when they arrive late at the boarding point. Even if you try calling driver through the app, they never responds.",0,,,,,LATE,ETA,during_pickup,Ops
-b064e6ab-8c8a-4f3b-8974-30866a5eeaec,2024-11-13 02:19:01,1,No one following the schedule. Time management is poor. Waste of time.,0,11.5.10,11.5.10,,,BOOKING,,at_booking,Eng
-cafd5c3a-6a55-4e27-8c46-f8967dec4971,2024-11-13 01:28:03,1,Waste app,0,11.5.8,11.5.8,,,UNCLEAR,,none,Unclear
-f501ac1a-52b4-4436-8106-5c2a308d2470,2024-11-12 16:55:20,1,Tracking system is worst,0,11.5.10,11.5.10,,,ETA,,during_trip,Eng
